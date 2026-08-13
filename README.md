@@ -1,4 +1,4 @@
-# 💳 Credit Card Customer Churn Analysis
+#  Credit Card Customer Churn Analysis
 
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi)
 ![Python](https://img.shields.io/badge/Python-EDA-blue?style=for-the-badge&logo=python)
@@ -8,11 +8,11 @@
 
 ---
 
-⭐ If you like this project, consider giving it a **star** on GitHub!
+ If you like this project, consider giving it a **star** on GitHub!
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 Customer churn is a major concern for financial institutions because retaining existing customers is significantly more cost-effective than acquiring new ones.
 
